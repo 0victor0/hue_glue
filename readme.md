@@ -38,7 +38,7 @@ Alternatively, these can also be set during class instantiation:
 
 The xy attribute must be passed as list of two floats. To fine tune color, reference the CIE Chromaticity Chart.
 
-![CIE Chart](cie1931.svg "Credit: Wikipedia")
+![CIE Chart](https://github.com/0victor0/hue_glue/blob/master/img/cie1931.svg "Credit: Wikipedia")
 
 [Credit: Wikipedia](https://en.wikipedia.org/wiki/CIE_1931_color_space)
 
